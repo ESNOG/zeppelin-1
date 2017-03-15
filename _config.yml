@@ -1,4 +1,4 @@
-# Plugins
+t# Plugins
 gems:
 - jekyll-sitemap
 safe: false
@@ -10,27 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "ESNOG Meetings Testing Site"
+email: "gore-org@esnog.net"
+description: "ESNOG meetings on the way"
 baseurl: "/zeppelin"
-url: "http://gdg-x.github.io"
+url: "https://jpcerezo.github.io/zeppelin"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "jpcerezo.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "ESNOG GORE Meetings"
+organizerAlternateName: "GORE Grupo Operadores de Red ES"
+organizerDescription: "ESNOG es un foro abierto para el intercambio de información técnica, experiencias operacionales y conocimientos de ingeniería relacionados con los servicios de infraestructura de Internet con el objetivo de mejorar el intercambio de experiencias e información entre ingenieros además de aumentar la colaboración y la coordinacion entre redes en España."
+organizerEmail: "gore-org@esnog.net"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.esnog.net/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+twitterAccount: "@esnog1"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
