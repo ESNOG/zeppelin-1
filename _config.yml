@@ -13,11 +13,11 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "ESNOG Meetings Testing Site"
 email: "gore-org@esnog.net"
 description: "ESNOG meetings on the way"
-baseurl: "/zeppelin"
-url: "https://jpcerezo.github.io/zeppelin"
+baseurl: "/zeppelin-1"
+url: "https://esnog.github.io/zeppelin-1"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "jpcerezo.github.io"
+googleAnalyticsSiteUrl: "esnog.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
