@@ -14,10 +14,10 @@ title: "GORE 19"
 email: "gore-org@esnog.net"
 description: "ESNOG (España Network Operators Group / Grupo de Operadores de Red Españoles) celebrará su decimonovena reunión el Jueves 6 de Abril y Viernes 7 de Abril de 2017 en el CSUC/CATNIX"
 baseurl: "/zeppelin"
-url: "https://japidei.github.io/zeppelin"
+url: "https://esnog.github.io/zeppelin-1"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-93709719-1"
-googleAnalyticsSiteUrl: "japidei.github.io"
+googleAnalyticsSiteUrl: "esnog.github.io"
 siteVerification: "LGjGAet7QmuCAf6r8g-BGU0FSrMpy_AQXJDKbUVbTJI"
 
 # Organizer Info
