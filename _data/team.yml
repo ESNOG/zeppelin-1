@@ -1,60 +1,57 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Juan Pedro"
+  surname: "Cerezo"
+  title: "Technical Kahuna at INETLABS"
+  thumbnailUrl: JuanPedroCerezo.jpeg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
-- 
-  id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
-  team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/juampe"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jpcerezo/"}
+-
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Joao"
+  surname: "Damas"
+  title: "Sr Researcher @APNIC Labs"
+  thumbnailUrl: JoaoDamas.jpg
   team: true
-  ribbon: 
+  ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/joao_damas"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/jdamas/"}
+-
+  id: 3
+  name: "Fernando"
+  surname: "García"
+  title: "Senior IP Architect at Belgacom International Carrier Services"
+  thumbnailUrl: FernandoGarcia.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/mundofer"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fernandogarcia6/"}
+# -
+#   id: 4
+#   name: "Dmytro"
+#   surname: "Danylyk"
+#   title: "Android Program Committee"
+#   thumbnailUrl: DmytroDanylyk.jpg
+#   subTeam: true
+#   social:
+#     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+#     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+#     - {name: "github", link: "https://github.com/dmytrodanylyk"}
+# -
+#   id: 7
+#   name: "Valentyn"
+#   surname: "Shybanov"
+#   title: "Web and Cloud Program Committee"
+#   thumbnailUrl: ValentynShybanov.jpg
+#   subTeam: true
+#   social:
+#     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#     - {name: "site", link: "http://olostan.name/"}

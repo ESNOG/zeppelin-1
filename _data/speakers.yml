@@ -1,67 +1,116 @@
-- 
-  id: 3
-  name: "Dawid"
-  surname: "Ostrowski"
-  company: "Google Poland"
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+-
+  id: 1
+  name: "Moisés"
+  surname: "Barrio"
+  # company: "Gobierno de España"
+  title: "Letrado del Consejo de Estado"
+  bio: "Moisés Barrio Andrés es Letrado del Consejo de Estado, Doctor en Derecho por la Universidad Carlos III de Madrid, Máster en Investigación en Ciencias Jurídicas por ICADE, ESADE y Deusto, y Licenciado en Derecho por ICADE (E-1)."
+  thumbnailUrl: MoisesBarrio.png
   rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
-  id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  company: "Lemberg Solutions Limited"
-  title: "Android Developer"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
-  name: "Mateusz"
-  surname: "Herych"
-  company: "Base CRM, GDG Krakow"
+  social:
+    - {name: "site", link: "http://www.moisesbarrio.es/"}
+-
+  id: 2
+  name: "Juan Camilo"
+  surname: "Cardona"
+  company: "Cisco Systems"
   title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  bio: "Juan Camilo Cardona received the degree in telecommunications engineering from the University Santo Tomas, Bogotá Colombia, and the M.Sc. degree in communications engineering from the Technische Universitat Munchen, Munchen, Germany, in 2008. His research interests include network management and data analysis. He is currently working for Cisco Systems, as a Software Engineer. Before joining Cisco Systems, he worked as a Ph.D student at IMDEA Networks, and as a Network Engineer at various Internet service providers and network integrators."
+  thumbnailUrl: JuanCamiloCardona.png
   rockstar: true
-  ribbon: 
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
-- 
+  social:
+    - {name: "twitter", link: "https://twitter.com/jcardonar"}
+    - {name: "site", link: "http://www.networks.imdea.org/people/juan-camilo-cardona"}
+-
+  id: 3
+  name: "Manuel Angel"
+  surname: "De Miguel Moreno"
+  company: "F5 Networks"
+  title: "CSP Systems Engineer"
+  bio: "Systems Engineer with high technical background and focused on results. Certified Cisco Systems Instructor (CCSI), highly qualified to interact with and manage work-teams, and establish long term trust relationships with customers as trusted advisor."
+  thumbnailUrl: ManuelAngelDeMiguelMoreno.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/manuel-angel-de-miguel-moreno-6694414/"}
+-
+  id: 4
+  name: "Arnold"
+  surname: "Nipper"
+  company: "DE-CIX"
+  title: "Chief Technology Evangelist and Co-Founder"
+  bio: "Arnold Nipper holds a degree in mathematics and is one of the founders of DE-CIX, where in his capacity as CTO/COO he has been responsible for operations and technical development since 2000. Besides overseeing operations, Arnold Nipper supervises technical planning, installation, and the continuous expansion of DE-CIX. Arnold Nipper also serves as Board Member at the Euro-IX, the umbrella association of Internet exchanges. Arnold Nipper is one of the pioneers in the area of Internet and network technology in Germany and has over 20 years of professional experience under his belt. From 1994 to 2000 he was the CTO at one of the first German Internet Providers. From 1989 to 1993 Mr. Nipper was a Research Assistant at the Technical University Karlsruhe, where he built the first IP connection for the university and helped lead the development of the national German Research and Education Network, WiN-IP. At the end of the eighties, Arnold Nipper was one of the founders of RIPE, the first European forum for the technical coordination and development of the Internet. As Chairman of IV-DENIC, the advocacy platform Deutsches Network Information Center, he played an important part in the establishment and development of the first name server for .de domains."
+  thumbnailUrl: ArnoldNipper.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/arnoldnipper/"}
+    - {name: "facebook", link: "https://www.facebook.com/arnold.nipper"}
+    - {name: "github", link: "https://github.com/arnoldnipper"}
+-
+  id: 5
+  name: "Jordi"
+  surname: "Palet"
+  company: "Consultintel"
+  title: "CEO/CTO"
+  bio: "Jordi Palet Martínez has been working in computers, networking and telecomm business during the last 20 years. His experience include programming in several languages, open systems, electronic and microcomputer circuit design, consultancy and network design and implementation, among others. He has been related to technical, marketing and product management in several companies, and actually is working as CEO/CTO at Consulintel, Madrid. He has been involved in the IPv6 Forum, as chair of the Education & Awareness Working Group, since the Forum foundation, and recently as member of the Tech Directorate. Jordi is also a member of the IPv6 Logo Committee, responsible for the IPv6 Ready Program. Jordi frequently writes articles, white papers, and presentations about most of the high end technologies. These documents had been published by several specialized magazines and other media, in both, Spanish and English. He is frequent lecturer and speaker in several Universities and events (Spain and Rest of the World), mainly about IPv6 and Next Generation Networks related issues (QoS, multicast, MIP, security, mobility, …), including complete tutorials. In the last 3 years, he has presented over 130 times. Jordi is active member of non-profit organizations for the dissemination of technologies and telecommunications/Internet. He is an active member of the European IPv6 Task Force, Spanish IPv6 Task Force, and the IPv6 Task Force Steering Committee. He is also cooperating in several European and world-wide IPv6 Task Forces and similar bodies. He was member of the Steering Committee at @asLAN, during several years, and then elected Vice-President and President. Jordi is involvement in several R&D projects and was the designer of Euro6IX, main responsible of the proposal preparation and further negotiation with the EC, and indeed is the Scientific Project Coordinator. He is also heavily involved in other EC IST projects, including 6POWER (where is also the Scientific Coordinator), 6QM, Eurov6, IPv6 TF-SC, 6LINK and the IPv6 Cluster."
+  thumbnailUrl: JordiPalet.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/jordipalet"}
+    - {name: "site", link: "http://www.consulintel.es/"}
+-
   id: 6
-  name: "Roman"
-  surname: "Mazur"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  name: "Christian"
+  surname: "Adell Querol"
+  company: "Schibsted Media Group"
+  title: "DevOps Network Engineer"
+  bio: "I could sum up myself as an experienced network engineer, currently diving into network automatisation & virtualisation in large scale deployments. Always trying to use Agile Project Management skills together facing technical challenges to finally implement useful solutions.
+
+Moreover, I don't understand networking without a comprehensive knowledge of the services transported on top of it, so this has brought me a deep understanding of the broadcasting industry cutting-edge technologies, specially for streaming and live show production, and now large scale deployments over Internet.
+
+Furthermore, I enjoy sharing my ideas about networking technologies with colleagues and students helping them whilst learning from other points of view too."
+  thumbnailUrl: ChristianAdellQuerol.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
-- 
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/christianadell/"}
+    - {name: "twitter", link: "https://twitter.com/chadell0"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Iñigo"
+  surname: "Ortiz de Urbina"
+  company: "RIPE NCC"
+  title: "Network Engineer"
+  bio: "My name is Iñigo Ortiz de Urbina Cazenave, 27yo, Madrid-based network engineer. I come from a technical and research background, mostly due to my involvement with research groups at the universities in which I got my Telecommunications Engineering. I currently work at a small LIR’s NOC dealing with customer support, IPv6 advocacy, design, implementation and education, as well as doing both BGP and DNS maintenance and performing the hostmaster functions (amongst few other functions).
+
+At a personal, non technical level, I am concerned about Internet development in the Middle East, Africa and Latam regions. As such, I understand the importance of quality content to both educate and promote community building in these circles. I do take passive part in many mailing-lists including the *-wg and *NOGs and so think I understand the needs of these communities.
+
+I’ve been explained the duties and workloads expected for this position and feel comfortable with both the tasks and time to allocate for them. I really enjoy reading the slides posted in all the conferences I dont have the chance to attend (Apricots, Nanogs, Menogs, sanog, esnog, ietf meetings, ipv6 task forces and roadshows… you name it) and I think I have a good sense of what constitutes a successful slide the audience can enjoy and learn from.
+
+I am an enthusiastic, cooperative person and have a strong sense of community that can make me suitable for the task. I think this is a very good opportunity for me to meet like-minded people and I hope I can get more involved with the Internet community at large, and the RIPE community in particular, by helping shape the content of the presentations.
+
+You can find me on LinkedIn or Twitter (@ioc32) and I can also provide references, should you require more information."
+  thumbnailUrl: IñigoOrtizDeUrbina.jpg
   rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/inigo-ortiz-de-urbina-cazenave-1b160949/"}
+    - {name: "twitter", link: "https://twitter.com/ioc32"}
+-
+  id: 8
+  name: "Maria Isabel"
+  surname: "Gandía"
+  company: "CSUC"
+  title: "Jefa de Comunicaciones"
+  bio: ""
+  thumbnailUrl: MariaIsabelGandia.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://www.csuc.cat/es/personal/gandia-carriedo-ma-isabel"}
+-
+  id: 9
+  name: "Rebecca"
+  surname: "Class-Peter"
+  company: "Euro-IX"
+  title: "Events and Admin Assistant"
+  bio: ""
+  thumbnailUrl: RebeccaClass-Peter.png
+  rockstar: true
+  social:

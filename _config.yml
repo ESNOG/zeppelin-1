@@ -10,188 +10,148 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "ESNOG Meetings Testing Site"
+title: "GORE 19"
 email: "gore-org@esnog.net"
-description: "ESNOG meetings on the way"
-baseurl: "/zeppelin-1"
-url: "https://esnog.github.io/zeppelin-1"
+description: "ESNOG (España Network Operators Group / Grupo de Operadores de Red Españoles) celebrará su decimonovena reunión el Jueves 6 de Abril y Viernes 7 de Abril de 2017 en el CSUC/CATNIX"
+baseurl: "/zeppelin"
+url: "https://japidei.github.io/zeppelin"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "esnog.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+googleAnalyticsTrackingId: "UA-93709719-1"
+googleAnalyticsSiteUrl: "japidei.github.io"
+siteVerification: "LGjGAet7QmuCAf6r8g-BGU0FSrMpy_AQXJDKbUVbTJI"
 
 # Organizer Info
-organizerName: "ESNOG GORE Meetings"
-organizerAlternateName: "GORE Grupo Operadores de Red ES"
+organizerName: "ESNOG"
+organizerAlternateName: "Grupo de Operadores de Red Españoles"
 organizerDescription: "ESNOG es un foro abierto para el intercambio de información técnica, experiencias operacionales y conocimientos de ingeniería relacionados con los servicios de infraestructura de Internet con el objetivo de mejorar el intercambio de experiencias e información entre ingenieros además de aumentar la colaboración y la coordinacion entre redes en España."
-organizerEmail: "gore-org@esnog.net"
+organizerEmail: "gore@esnog.net "
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.esnog.net/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@esnog1"
+twitterAccount: "@ESNOG1"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "mailto:gore-org@esnog.net"
+c4sponsorsUrl: "mailto:gore-org@esnog.net"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Ponentes"}
+ - {permalink: "/team/", text: "Organizadores"}
+ - {permalink: "/logistics/", text: "Logística"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser patrocinador?"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser patrocinador?"}
 
 # Hero Block
-heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+heroImage: "hero-annexus.jpg"
+heroTitle: Gore <typeout> 19
+eventDate: "Jueves 6 y Viernes 7 de Abril, 2017"
+typeoutTextValues: '"", "Barcelona", "CSUC", "CATNIX"'
+typeoutFallback: "Barcelona"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://www.esnog.net/gore19/gore19-participar-habilitado.html", text: "Incripción"}
+ - {link: "http://www.esnog.net/gore19/lista.html", text: "Listado de asistentes"}
+ - {link: "mailto:gore-org@esnog.net", text: "¿Quiere ser ponente?"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Acerca de GORE 19"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Reunión", image: "hero-csuc.jpg", text: "ESNOG (España Network Operators Group / Grupo de Operadores de Red Españoles) celebrará su decimonovena reunión el Jueves 6 de Abril y Viernes 7 de Abril de 2017 en el CSUC/CATNIX" }
+ - {title: "Presentaciones", image: "presentaciones.png", text: "Dos dias en las que tendremos un total de 9 presentaciones." }
+ - {title: "Evento Social", image: "evento-social.jpg", text: "En esta ocasión contamos con el patrocinio de F5 para el evento social. El Día 6 tendrá lugar una cena en un restaurante que anunciaremos en breve." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "83", specialCharacter: "+", info: "asistentes", detail: "de todas partes"}
+ - {count: "24", specialCharacter: "+", info: "horas", detail: "de intercambio de información técnica, experiencias operacionales y conocimientos de ingeniería relacionados con los servicios de infraestructura de Internet."}
+ - {count: "9", specialCharacter: "+", info: "ponentes", detail: "de clase mundial"}
+
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Últimas noticias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Ponentes"
+rockstarSpeakersButtonText: "Más información"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
+locationBlockTitle: "Ubicación"
+eventLocationName: "CSUC/CATNIX"
+eventLocationLink: "http://www.csuc.cat/es/el-csuc/el-consorcio/ubicacion"
+eventStreetAddress: "C/ Gran Capità, s/n"
+eventAddressLocality: "Barcelona"
+eventAddressLocalityRegion: "Cataluña"
+eventPostalCode: "08034"
+eventAddressCountry: "España"
+eventStartTime: "2017-04-06T09:30"
 eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventEndTime: "2017-04-06T18:00"
+eventPlaceCoordinates: "41.387324, 2.111869"
+mapCenterCoordinates: "41.387324, 2.111869"
+mapMobileCenterCoordinates: "41.387324, 2.111869"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Recinto"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "CSUC/CATNIX"
+venueFeatures: ["10.000 m2 construidos con forma cilíndrica", "Espacios de encuentro y meeting corners", "Entorno de investigación colaborativa e innovación."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+tweetsFeedTitle: "¿Que está pasando?"
+twitterHashTag: "esnog19"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Patrocinadores"
+partnersC4sponsorsButton: "¿Quiere ser patrocinador?"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
-
-# Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/+EsnogNet", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=ESNOG1", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Enlaces"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://www.esnog.net/", text: "ESNOG.net"}
+   - {link: "http://www.espanix.net/", text: "ESpanix"}
+   - {link: "http://www.csuc.cat/es", text: "CSUC"}
+   - {link: "http://www.catnix.net/es/", text: "CATNIX"}
+   - {link: "https://f5.com/es", text: "F5"}
  -
-  title: "Contacts"
+  title: "Contacto"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gore-org@esnog.net", text: "gore-org@esnog.net"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "https://esnog.slack.com", text: "Slack"}
+   - {link: "https://plus.google.com/+EsnogNet/posts", text: "Video reuniones anteriores"}
 
 # Blog
 blogTitle: "Latest news"
@@ -202,90 +162,64 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "Sobre nosotros"
+aboutUs: "Un foro para el intercambio de información técnica, experiencias operacionales y conocimientos de ingeniería relacionados con los servicios de infraestructura de Internet.
+
+Objetivos: Mejorar el intercambio de experiencias e información entre ingenierios,
+mejorar la coordinacion entre redes en España y crear un foro abierto para mejorar la colaboración"
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+findWayTitle: "Como llegar"
+findWayDistance: "Distancia"
+findWayDriving: "CONDUCIENDO"
+findWayWalking: "ANDANDO"
+findWayBicycling: "BICICLETA"
+findWayTransit: "TRANSPORTE PÚBLICO"
+findWayFindFlight: "Encontrar vuelos"
+logisticsMapCenterCoordinates: "41.387324, 2.111869"
+logisticsMapMobileCenterCoordinates: "41.387324, 2.111869"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Conoce Barcelona"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Desde el aeropuerto", information: 'Con la nueva L9 – Sud. Desde el aeropuerto hasta Zona Universitária.'}
+ - {title: "Transporte público", information: 'Aquí tienen enlaces a las páginas de <a href="http://www.tmb.cat/es/home">Bus, metro</a> y <a href="http://www.tram.cat/es/">Tram</a>.'}
+ - {title: "Hoteles", information: 'El CSUC/CATNIX tiene una <a href="http://www.esnog.net/gore19/gore19-files/Hoteles_en_Barcelona.pdf">lista</a> de varios alojamientos <a href="https://www.google.com/maps/d/viewer?mid=zzqIqWVSmhQo.kOKSkhlMtsX0">cercanos</a>, utilizable para el evento.'}
 directionDetailsWideCards:
  -
-  title: "Questions?"
+  title: "Hoteles"
   subCards:
    -
-    title: "Hotels"
+    title: ""
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.nh-hoteles.es/hotel/hesperia-sant-just", text: "NH Hesperia Sant Just"}
+     - {link: "http://www.abbagardenhotel.com/es/home.html", text: "Abba Garden Hotel"}
+     - {link: "http://www.atiramhotels.com/hoteles/barcelona/hotel-arenasatiram-cerca-camp-nou/", text: "Hotel Arenas Atiram"}
+     - {link: "http://www.hotelmadanis.com/", text: "Hotel Madanis"}
+     - {link: "https://www.mediumhoteles.com/es/espana/barcelona/sants/hotelmedium-prisma", text: "Hotel Medium Prisma"}
+
    -
-    title: "Registration"
+    title: ""
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.hotelesplugues.com/", text: "Hotel Esplugues"}
+     - {link: "http://www.barcelo.com/barcelohotels/es_es/hoteles/espana/barcelo", text: "Hotel Barceló Sants"}
+     - {link: "http://www.hotelmadanisliceo.com/", text: "Hotel Madanis Liceo"}
+     - {link: "http://www.hotelescatalonia.com/es/nuestros_hoteles/europa/espanya/catalunya/barcel", text: "Catalonia Rigoletto"}
    -
-    title: "Attendance Details"
+    title: ""
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.hotelbonanovapark.com/home/index.php", text: "Hotel Bonanova  Park"}
+     - {link: "http://www.senatorbarcelonaspahotel.com/", text: "Senator Barcelona Spa"}
+     - {link: "http://www.hotel-upperdiagonal.com/", text: "Hotel Upper Diagonal"}
+     - {link: "http://www.marriott.com/hotels/travel/bcnsu-ac-hotel-victoriasuites/", text: "AC Hotel Victoria Suites"}
+ -
+  title: "Residencias"
+  subCards:
+   -
+    title: ""
+    links:
+     - {link: "http://www.resa.es/es/residencias/barcelona/residencia-universitaria-torre-girona/residencia/", text: "RESA Torre Girona (a 9 minutos del CSUC)"}
+     - {link: "http://www.resainn.com/alojamiento/barcelona/residencia-investigadors/", text: "RESA d’Investigadors (media hora en metro L3)"}
 
-# Hackathon
-hackathonTitle: "Hackathon"
-enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
-hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
-prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
